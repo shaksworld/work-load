@@ -1,2 +1,1 @@
-# work-load
-for aissignment zuri
+https://shaksworld.github.io/work-load/
